@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ably": "^2.9.0",
+    "ably": "^1.2.50",
     "next": "15.3.2",
     "openai": "^4.103.0",
     "react": "^19.0.0",
@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/ably": "^1.0.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
